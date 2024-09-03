@@ -9,5 +9,3 @@ KNN(k-Nearest Neighbour) Algorithm:So mainly this algorithm is based on the sele
 
 Random Forest Algorithm:Random Forest Algorithm Classifies the species based on the number of estimators and also both these algorithms are effective and efficient for the Classification tasks.
 
-
-
